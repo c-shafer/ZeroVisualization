@@ -24,35 +24,55 @@ Target points used:
 
 ### 10 yd zero
 
-| Impact | Holdover |
-|---|---|
-| ![Head 10yd Impact](img_head_10yd_zero_impact.png) | ![Head 10yd Holdover](img_head_10yd_zero_holdover.png) |
+#### Impact
+
+![Head 10yd Impact](img_head_10yd_zero_impact.png)
+
+#### Holdover
+
+![Head 10yd Holdover](img_head_10yd_zero_holdover.png)
 
 ### 25 yd zero
 
-| Impact | Holdover |
-|---|---|
-| ![Head 25yd Impact](img_head_25yd_zero_impact.png) | ![Head 25yd Holdover](img_head_25yd_zero_holdover.png) |
+#### Impact
+
+![Head 25yd Impact](img_head_25yd_zero_impact.png)
+
+#### Holdover
+
+![Head 25yd Holdover](img_head_25yd_zero_holdover.png)
 
 ## Body A-Zone: 10 yd and 25 yd Zero
 
 ### 10 yd zero
 
-| Impact | Holdover |
-|---|---|
-| ![Body 10yd Impact](img_body_10yd_zero_impact.png) | ![Body 10yd Holdover](img_body_10yd_zero_holdover.png) |
+#### Impact
+
+![Body 10yd Impact](img_body_10yd_zero_impact.png)
+
+#### Holdover
+
+![Body 10yd Holdover](img_body_10yd_zero_holdover.png)
 
 ### 25 yd zero
 
-| Impact | Holdover |
-|---|---|
-| ![Body 25yd Impact](img_body_25yd_zero_impact.png) | ![Body 25yd Holdover](img_body_25yd_zero_holdover.png) |
+#### Impact
+
+![Body 25yd Impact](img_body_25yd_zero_impact.png)
+
+#### Holdover
+
+![Body 25yd Holdover](img_body_25yd_zero_holdover.png)
 
 ## Top of Head A-Zone Perf (Impact Mode)
 
-| 10 yd zero | 25 yd zero |
-|---|---|
-| ![Top Perf 10yd Impact](img_head_top_perf_10yd_zero_impact.png) | ![Top Perf 25yd Impact](img_head_top_perf_25yd_zero_impact.png) |
+### 10 yd zero
+
+![Top Perf 10yd Impact](img_head_top_perf_10yd_zero_impact.png)
+
+### 25 yd zero
+
+![Top Perf 25yd Impact](img_head_top_perf_25yd_zero_impact.png)
 
 ## Body A-Zone With 1 in Windage Zero Error (Impact Mode Only)
 
