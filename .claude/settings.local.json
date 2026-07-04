@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(mkdir -p /c/Users/cshaf/AppData/Local/Temp/claude/c--Users-cshaf-OneDrive-Documents-code-map-hits/5cefde16-ae47-40a1-9c33-98935bbb06cc/scratchpad)",
+      "Read(//c/Users/cshaf/AppData/Local/Temp/claude/c--Users-cshaf-OneDrive-Documents-code-map-hits/5cefde16-ae47-40a1-9c33-98935bbb06cc/**)",
+      "Bash(python map_hits.py --target /c/Users/cshaf/AppData/Local/Temp/claude/c--Users-cshaf-OneDrive-Documents-code-map-hits/5cefde16-ae47-40a1-9c33-98935bbb06cc/scratchpad/test_target.png --ref-point 200,300 --ref-width-in 6 --ref-height-in 11 --aim-point 200,300 --shots shots.csv --output /c/Users/cshaf/AppData/Local/Temp/claude/c--Users-cshaf-OneDrive-Documents-code-map-hits/5cefde16-ae47-40a1-9c33-98935bbb06cc/scratchpad/result.png)",
+      "Bash(python map_hits.py --target target.png --ref-point 970,1200 --ref-width-in 6 --ref-height-in 11 --aim-point 970,1385 --shots shots.csv --moa 1.5 --output result.png)",
+      "Bash(python map_hits.py --target target.png --ref-point 970,1200 --ref-width-in 6 --ref-height-in 11 --aim-point 969,372 --shots shots.csv --moa 1.5 --output result.png)",
+      "Bash(python map_hits.py --target target.png --ref-point 970,1200 --ref-width-in 6 --ref-height-in 11 --aim-point 969,372 --shots shots.csv --moa 1.5 --mode holdover --output result_holdover.png)"
+    ]
+  }
+}
