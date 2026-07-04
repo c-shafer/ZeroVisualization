@@ -97,7 +97,7 @@ The zero-error comparison images show why setup quality matters:
 Key takeaway from these two plots:
 
 - The 10-yard zero is more sensitive to being off during zeroing.
-- A 1-inch setup miss at 10 yards creates a larger practical penalty as distance changes because that angular error propagates more aggressively in your usable envelope.
+- A 1-inch setup miss at 10 yards creates a larger practical penalty as distance changes because that error propagates more
 - The 25-yard zero better damps that effect, so the same zeroing mistake is less disruptive to where rounds land in the scoring zone.
 
 
