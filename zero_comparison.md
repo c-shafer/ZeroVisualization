@@ -85,7 +85,7 @@ These images visualize what being 1 inch off in windage at the zero distance doe
 
 - Point of impact is always between ~1.5" low and point of aim from 0 to 50yd.
 - This results in a simpler mental model under stress, most penalty targets are placed below the scoring zone in USPSA. Only having to hold 1.5" high at all practical ranges simplifes picking the correct POA
-- More robust to setup error: with windage/zero error introduced, a 25-yard baseline usually keeps dispersion behavior easier to diagnose and correct. With targets like tuxedo targets holding the center of the a-zone with a windage error in your zero will produce a greater probability of hit with the vast majority of the rounds impacting inside the a-zone out to 25yd"
+- More robust to error in zero: with windage/zero error introduced, a 25-yard baseline usually keeps dispersion easier to diagnose and correct. With targets like tuxedo targets holding the center of the a-zone with a windage error in your zero will produce a greater probability of hit with the vast majority of the rounds impacting inside the a-zone out to 25yd" with a 25yd zero.
 
 ## Why a 1 in Zeroing Error Hurts 10 yd Zero More
 
