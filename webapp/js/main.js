@@ -15,15 +15,15 @@ const DEFAULT_ZERO_CONFIG = {
   mvFps: 1150,
   bc: 0.15,
   dragModel: "G1",
-  bulletWeightGr: 124,
+  bulletWeightGr: 115,
   sightHeightIn: 1.5,
-  zeroDistanceYd: 10,
+  zeroDistanceYd: 25,
 };
 
 const appState = {
   mode: "impact",
   aimPointPx: { x: 0, y: 0 },
-  rangeYd: 10,
+  rangeYd: 7,
   maxRangeYd: RANGE_MAX_YD,
   zeroConfig: { ...DEFAULT_ZERO_CONFIG },
   dotMoa: 2,
